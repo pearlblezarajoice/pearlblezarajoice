@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pearlblezarajoice
-- 👀 I’m interested in information security/cybersecurity, data analysis, and programming
-- 🌱 I’m currently learning Information Technology course
-- 💞️ I’m looking to collaborate on IT professionals to learn new knowledge
+- 👀 I’m interested in information security/cybersecurity.
+- 🌱 I'm a 3rd Year - Bachelor of Science in Information Technology student.
+- 💞️ I’m looking forward to learn.
 - 📫 You can reach me through my e-mail: pearlblezarajoiceholanda@gmail.com
 
 <!---
